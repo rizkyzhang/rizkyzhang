@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I am Rizky
+
+## I am a Data Science Enthuasiast and Web Developer
+
+- 🔭 I’m currently working on:
+  - My first blog
+  - My self-created Data Science Curriculum 
 
 <!--
 **rizkyzhang/rizkyzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
