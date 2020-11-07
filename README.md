@@ -7,7 +7,7 @@
   - 📚 My self-created Data Science Curriculum 
 
 - 🌱 I’m currently learning:
-  - Python for Everybody (Book) | Chapter 1
+  - Python for Everybody (Book) | Chapter 2
 
 <!--
 **rizkyzhang/rizkyzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
