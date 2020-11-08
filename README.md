@@ -7,6 +7,7 @@
   - 📚 My self-created Data Science Curriculum 
 
 - 🌱 I’m currently learning:
+  - Build a Career in Data Science (Book) | Chapter 1
   - Python for Everybody (Book) | Chapter 2
 
 <!--
