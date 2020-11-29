@@ -3,7 +3,7 @@
 ## I am a Data Science Enthuasiast and Web Developer
 
 - 🔭 I’m currently working on:
-  - 📝 My first blog
+  - 📝 My blog
   - 📚 My self-created Data Science Curriculum 
 
 - 🌱 I’m currently learning:
