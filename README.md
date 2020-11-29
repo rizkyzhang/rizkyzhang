@@ -7,7 +7,7 @@
   - 📚 My self-created Data Science Curriculum 
 
 - 🌱 I’m currently learning:
-  - Complete Machine Learning and Data Science: Zero to Mastery (Udemy) | Section 5
+  - Complete Machine Learning and Data Science: Zero to Mastery (Udemy) | Section 6
   - Build a Career in Data Science (Book) | Chapter 1
   - Python for Everybody (Book) | Chapter 2
 
