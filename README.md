@@ -7,9 +7,8 @@
   - 📚 My self-created Data Science Curriculum 
 
 - 🌱 I’m currently learning:
-  - Complete Machine Learning and Data Science: Zero to Mastery (Udemy) | Section 7
-  - Elements of AI | Chapter 1
-  - Python for Everybody | Chapter 2
+  - Complete Machine Learning and Data Science: Zero to Mastery (Udemy)
+  - Python for Everybody 
 
 <!--
 **rizkyzhang/rizkyzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
