@@ -4,12 +4,14 @@
 
 - 🔭 I’m currently working on:
   - 📝 My blog
-  - 📚 My self-created Data Science Curriculum 
+  - 📚 My projects
 
-- 🌱 I’m currently learning:
-  - Complete Machine Learning and Data Science: Zero to Mastery (Udemy)
-  - Python for Everybody 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rizkyzhang&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyzhang&layout=compact&theme=gruvbox" />
+</a>
 <!--
 **rizkyzhang/rizkyzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
