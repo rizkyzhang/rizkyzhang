@@ -2,9 +2,9 @@
 
 ## I am a Data Science Enthuasiast and Web Developer
 
-- 🔭 I’m currently working on:
+<!-- - 🔭 I’m currently working on:
   - 📝 My blog
-  - 📚 My projects
+  - 📚 My projects -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkyzhang&show_icons=true&theme=gruvbox" />
