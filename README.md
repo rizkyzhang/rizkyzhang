@@ -4,8 +4,12 @@
 
 I love solving problems and learning new things everyday.
 In my spare time, I write on my blog, reading tech articles, solving algorithm problems,
-helping peoples solving programming problems in Kotakode (Indonesia equivalent of Stack Overflow) or hang
+helping peoples solving programming problems in [Kotakode](https://kotakode.com/users/2506/rizkyzhang)
+(Indonesia equivalent of Stack Overflow) or hang
 out with my friends. My mission is to help make the world a better place by solving real world problems with programming.
+
+### 🌱 I’m currently learning
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Contacts
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizkyzhang)
@@ -18,7 +22,6 @@ out with my friends. My mission is to help make the world a better place by solv
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
