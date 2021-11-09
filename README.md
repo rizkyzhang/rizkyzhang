@@ -8,6 +8,9 @@ helping peoples solving programming problems in [Kotakode](https://kotakode.com/
 (Indonesia equivalent of Stack Overflow) or hang
 out with my friends. My mission is to help make the world a better place by solving real world problems with programming.
 
+### 📖 I'm currently reading
+- Eloquent JavaScript
+
 ### 🌱 I’m currently learning
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
