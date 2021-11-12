@@ -3,7 +3,7 @@
 ### I am a Data Science Enthuasiast & Web Developer
 
 I love solving problems and learning new things everyday.
-In my spare time, I write on my blog, reading tech articles, solving algorithm problems,
+In my spare time, I write on my [blog](https://programmerhood.com/), reading tech articles, solving algorithm problems,
 helping peoples solving programming problems in [Kotakode](https://kotakode.com/users/2506/rizkyzhang)
 (Indonesia equivalent of Stack Overflow) or hang
 out with my friends. My mission is to help make the world a better place by solving real world problems with programming.
@@ -15,6 +15,7 @@ out with my friends. My mission is to help make the world a better place by solv
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ☎️ Contacts
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizkyzhang)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizkyzhang)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/rizkyzhang)
