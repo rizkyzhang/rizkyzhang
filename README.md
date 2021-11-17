@@ -1,12 +1,11 @@
 ## Hi there 👋, I am Rizky
 
-### I am a Data Science Enthuasiast & Web Developer
+I am a Front-End Web Developer with experience building responsive websites and web applications. I specialize in JavaScript and have professional experience working with React, Next.js and Chakra UI. 
 
-I love solving problems and learning new things everyday.
-In my spare time, I write on my [blog](https://programmerhood.com/), reading tech articles, solving algorithm problems,
-helping peoples solving programming problems in [Kotakode](https://kotakode.com/users/2506/rizkyzhang)
-(Indonesia equivalent of Stack Overflow) or hang
-out with my friends. My mission is to help make the world a better place by solving real world problems with programming.
+I love learning new things everyday and sharing my knowledge by writing in my blog or helping other developers solving their coding problem in [Kotakode](https://kotakode.com/users/2506/rizkyzhang)
+(Indonesia equivalent of Stack Overflow).
+
+Take a look at my portfolio and let's get in touch! ➡️ programmerhood.com
 
 ### 📖 I'm currently reading
 - Eloquent JavaScript
