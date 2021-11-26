@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Rizky
 
-I am a Front-End Web Developer with experience building responsive websites and web applications. I specialize in JavaScript and have professional experience working with React, Next.js and Chakra UI. 
+I am a Frontend Web Developer with experience building responsive websites and web applications. I specialize in JavaScript and have professional experience working with React, Next.js, Vercel and Chakra UI. 
 
 I love learning new things everyday and sharing my knowledge by writing in my blog or helping other developers solving their coding problem in [Kotakode](https://kotakode.com/users/2506/rizkyzhang)
 (Indonesia equivalent of Stack Overflow).
