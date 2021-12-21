@@ -13,7 +13,7 @@ Explore my online CV ➡️ https://read.cv/rizkyzhang
 - Eloquent JavaScript
 
 ### 🌱 I’m currently learning
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### ☎️ Contacts
 
