@@ -9,11 +9,8 @@ Take a look at my portfolio and let's get in touch! ➡️ https://programmerhoo
 
 Explore my online CV ➡️ https://read.cv/rizkyzhang
 
-### 📖 I'm currently reading
-- Eloquent JavaScript
-
-### 🌱 I’m currently learning
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<!-- ### 📖 I'm currently reading
+- Eloquent JavaScript -->
 
 ### ☎️ Contacts
 
@@ -39,6 +36,7 @@ Explore my online CV ➡️ https://read.cv/rizkyzhang
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### 🔧 Tools & Other Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
