@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Rizky
 
-I am a Full Stack Web Developer with experience building responsive websites and web applications. I specialize in JavaScript and have professional experience working with React, Next.js, Vercel and Chakra UI. 
+I am a Full Stack Web Developer with experience building responsive and complex web applications especially e-commerce. I specialize in JavaScript and have professional experience working with React, Next.js, Chakra UI, Node.js, Express.js, PostgreSQL and Prisma .
 
 I love learning new things everyday and sharing my knowledge by writing in my blog or helping other developers solving their coding problem in [Kotakode](https://kotakode.com/users/2506/rizkyzhang)
 (Indonesia equivalent of Stack Overflow).
@@ -34,7 +34,7 @@ Explore my online CV ➡️ https://read.cv/rizkyzhang
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
