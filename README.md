@@ -2,7 +2,7 @@
 
 I am a Full Stack Web Developer with experience in building responsive and complex web applications using React, Next.js, Chakra UI, Node.js, Supabase and other technologies.
 
-I love building projects, writing about what I learn and helping other developers solving their coding problem in Kotakode (Indonesia equivalent of Stack Overflow).
+I love building projects, learning new things everyday and writing about what I learn on my blog.
 
 Take a look at my portfolio and let's get in touch! ➡️ https://programmerhood.com
 
@@ -15,7 +15,6 @@ Take a look at my portfolio and let's get in touch! ➡️ https://programmerhoo
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizkyzhang)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/rizkyzhang)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rizkyzhangdev)  
-[Kotakode](https://kotakode.com/users/2506/rizkyzhang)
 
 ### 📺 Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
