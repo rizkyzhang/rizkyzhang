@@ -1,13 +1,10 @@
 ## Hi there 👋, I am Rizky
 
-I am a Full Stack Web Developer with experience building responsive and complex web applications especially e-commerce. I specialize in JavaScript and have professional experience working with React, Next.js, Chakra UI, Node.js, Express.js, PostgreSQL and Prisma .
+I am a Full Stack Web Developer with experience in building responsive and complex web applications using React, Next.js, Chakra UI, Node.js, Supabase and other technologies.
 
-I love learning new things everyday and sharing my knowledge by writing in my blog or helping other developers solving their coding problem in [Kotakode](https://kotakode.com/users/2506/rizkyzhang)
-(Indonesia equivalent of Stack Overflow).
+I love building projects, writing about what I learn and helping other developers solving their coding problem in Kotakode (Indonesia equivalent of Stack Overflow).
 
 Take a look at my portfolio and let's get in touch! ➡️ https://programmerhood.com
-
-Explore my online CV ➡️ https://read.cv/rizkyzhang
 
 <!-- ### 📖 I'm currently reading
 - Eloquent JavaScript -->
