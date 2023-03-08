@@ -1,10 +1,11 @@
 ## Hi there 👋, I am Rizky
 
-I am a Full Stack Web Developer with experience in building responsive and complex web applications using React, Next.js, Node.js, Supabase and other technologies.
+[Blog](https://dev.to/rizkyzhang)  
+[Portfolio](https://programmerhood.com)
 
-I love building projects, learning new things everyday and writing about what I learn on my blog.
+I am Full Stack Web Developer who specialize in Backend. I have worked in complex applications such as e-commerce and event management service. Everyday I always to strive to learn at least one new thing be it technical or not because as a developer learning is constant.
 
-Take a look at my portfolio and let's get in touch! ➡️ https://programmerhood.com
+On my free time I usually working on hobby projects, writing technical article on my blog, contribute to open source, solving code challenges, reading books and of course hang out with friends to refresh mind.
 
 ### ☎️ Contacts
 
