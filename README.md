@@ -3,7 +3,7 @@
 [Blog](https://dev.to/rizkyzhang)  
 [Portfolio](https://programmerhood.com)
 
-I am Full Stack Web Developer who specialize in Backend. I have worked in complex applications such as e-commerce and event management service. Everyday I always to strive to learn at least one new thing be it technical or not because as a developer learning is constant.
+I am Software Engineer who specialize in Backend. I have worked in complex applications such as e-commerce and event management service. Everyday I always to strive to learn at least one new thing be it technical or not because as a developer learning is constant.
 
 On my free time I usually working on hobby projects, writing technical article on my blog, contribute to open source, solving code challenges, reading books and of course hang out with friends to refresh mind.
 
