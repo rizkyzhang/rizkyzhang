@@ -15,8 +15,10 @@ On my free time I usually working on hobby projects, writing technical article o
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rizkyzhangdev)  
 
 ### 🛠 Tech Stack
-- **Front-end**: React | React Router | React Hook Form | Next.js | Base Web UI | Chakra UI | Material UI
-- **Back-End**: TypeScript | Node.js | Express | Prisma ORM | Zod validator | Golang | Gomail | Echo | sqlx | PostgreSQL | RabbitMQ
+- **Front-end**: React | React Router | React Hook Form | Next.js | Clerk Auth | Firebase Auth | Base Web UI | Chakra UI | Material UI
+- **Back-End**: JavaScript | TypeScript | | Node.js | Express | Prisma ORM | Zod validator | Golang | Echo Framework | sqlx | PostgreSQL | MongoDB | RabbitMQ
+- **Devops**: Docker | AWS SES | AWS Workmail | Cloudflare | Mailgun
+- **Testing**: Jest | Testify | Counterfeiter
 
 <!--
 **rizkyzhang/rizkyzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
