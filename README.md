@@ -16,7 +16,7 @@ On my free time I usually working on hobby projects, writing technical article o
 
 ### 🛠 Tech Stack
 - **Front-end**: React | React Router | React Hook Form | Next.js | Clerk Auth | Firebase Auth | Base Web UI | Chakra UI | Material UI
-- **Back-End**: JavaScript | TypeScript | | Node.js | Express | Prisma ORM | Zod validator | Golang | Echo Framework | sqlx | PostgreSQL | MongoDB | RabbitMQ
+- **Back-End**: JavaScript | TypeScript | Node.js | Express | Prisma ORM | Zod validator | Golang | Echo Framework | sqlx | PostgreSQL | MongoDB | RabbitMQ
 - **Devops**: Docker | AWS SES | AWS Workmail | Cloudflare | Mailgun
 - **Testing**: Jest | Testify | Counterfeiter
 
