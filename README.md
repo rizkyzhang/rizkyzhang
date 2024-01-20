@@ -2,6 +2,7 @@
 
 [Blog](https://dev.to/rizkyzhang)  
 [Portfolio](https://programmerhood.com)
+[Resume](https://docs.google.com/document/d/1lHM5j0cSzKI1E7bh5usq6VPGIo9Hp9fd7P6V1b2tVb8/edit?usp=sharing)
 
 I am Software Engineer who specialize in Backend. I have worked in complex applications such as e-commerce and event management service. Everyday I always to strive to learn at least one new thing be it technical or not because as a developer learning is constant.
 
